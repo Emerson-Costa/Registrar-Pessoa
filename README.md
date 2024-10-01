@@ -1,1 +1,1 @@
-# Siztema simples para realizar o registro de uma pessoa
+# Sistema para cadastrar pessoa
